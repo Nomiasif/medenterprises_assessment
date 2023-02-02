@@ -9,3 +9,4 @@ class TestLocators:
     entry_time_pm = "//input[@name='StartingTimeAMPM' and @value='PM']"
     exit_time_am = "//input[@name='LeavingTimeAMPM' and @value='AM']"
     exit_time_pm = "//input[@name='LeavingTimeAMPM' and @value='PM']"
+    verify_cost = "//td//span[@class='SubHead']"
