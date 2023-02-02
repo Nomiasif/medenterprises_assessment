@@ -1,3 +1,4 @@
+# This class contains the locators needed for the assessment
 class TestLocators:
     parking_type_dd = "//select[@id='ParkingLot']"
     calculate_btn = "//input[@name='Submit']"
